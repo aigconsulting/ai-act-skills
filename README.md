@@ -1,10 +1,18 @@
 # AI Act Skills
 
+![AI Act Skills — copertina illustrata](assets/ai-act-hero.svg)
+
 Catalogo di 13 skill autonome per analisi documentale e normativa AI Act, con disciplina UE e italiana.
 
 **Stato:** prima versione operativa documentale, non validazione giuridica né certificazione di conformità. Ogni skill può essere invocata indipendentemente.
 
 ## Skill disponibili
+
+![Mappa delle 13 skill AI Act, organizzate in quattro aree tematiche](assets/ai-act-competencies.svg)
+
+[Apri il diagramma vettoriale SVG](assets/ai-act-competencies.svg)
+
+La mappa organizza **13 competenze autonome in quattro aree tematiche**: non rappresenta un workflow obbligatorio né una sequenza di adempimenti.
 
 | Skill | Competenza |
 | --- | --- |
