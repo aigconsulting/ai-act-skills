@@ -1,6 +1,6 @@
 # AI Act Skills
 
-Catalogo di 13 skill autonome per analisi documentale e normativa AI Act, con disciplina UE e italiana.
+Catalogo di 14 skill autonome per analisi documentale e normativa AI Act, con disciplina UE e italiana.
 
 **Stato:** prima versione operativa documentale, non validazione giuridica né certificazione di conformità. Ogni skill può essere invocata indipendentemente.
 
@@ -20,6 +20,7 @@ Catalogo di 13 skill autonome per analisi documentale e normativa AI Act, con di
 | [`ai-act-monitoring-incidents`](ai-act-monitoring-incidents/SKILL.md) | Monitoraggio e incidenti AI |
 | [`ai-act-governance`](ai-act-governance/SKILL.md) | Governance e alfabetizzazione AI |
 | [`ai-act-italy`](ai-act-italy/SKILL.md) | Disciplina italiana AI |
+| [`ai-act-agid-pa`](ai-act-agid-pa/SKILL.md) | Adozione IA nella PA: Linee guida AgID, strategia e assessment |
 | [`ai-act-deadlines`](ai-act-deadlines/SKILL.md) | Calendario di applicazione |
 
 ## Principi
@@ -35,6 +36,11 @@ Catalogo di 13 skill autonome per analisi documentale e normativa AI Act, con di
 
 - [AI Act, testo consolidato EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng)
 - [Legge italiana 132/2025, Normattiva](https://www.normattiva.it/eli/id/2025/09/25/25G00143/CONSOLIDATED)
+
+- [Linee guida AgID definitive per l'adozione IA nella PA (9 novembre 2026)](https://trasparenza.agid.gov.it/download/10402.html)
+- [Regolamento (UE) 2026/1744 — Digital Omnibus IA](https://eur-lex.europa.eu/eli/reg/2026/1744/oj)
+
+Aggiornamento 26 novembre 2026: le linee guida sull'adozione sono definitive; verificare separatamente lo stato delle linee guida su sviluppo e procurement. La skill PA distingue le modalità prescrittive del §2.1 e non sostituisce la validazione giuridica.
 
 ## Utilizzo
 
